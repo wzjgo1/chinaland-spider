@@ -1,0 +1,29 @@
+{
+  "name": "chinaland-spider",
+  "version": "1.0.0",
+  "description": "中国土地网爬虫",
+  "main": "main.js",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "puppeteer": "^1.19.0",
+    "tabletojson": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzjgo1/chinaland-spider.git"
+  },
+  "keywords": [
+    "spider",
+    "chinaland"
+  ],
+  "author": "wzj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzjgo1/chinaland-spider/issues"
+  },
+  "homepage": "https://github.com/wzjgo1/chinaland-spider#readme"
+}
